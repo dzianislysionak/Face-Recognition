@@ -1,3 +1,5 @@
 Full stack web application for detecting face on the URL based picture.
 
-https://face-recognition-appa.herokuapp.com/
+Front-End: React.js.
+
+Back-End: Node.js (Express.js) + PostgreSQL + Clarifai API.
